@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend and backend dev
 - 🌱 I’m currently learning HTML from scratch
 - 💞️ I’m looking to collaborate on tasks and projects that will further enhance my learning 
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/kolade-olamide
+- 📫 You can reach me on linkedin https://www.linkedin.com
 
 <!---
 KratozdCoder/KratozdCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
